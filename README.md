@@ -1,4 +1,5 @@
 # Attemp of computer engineer at [USAL](https://usal.es/ "Título opcional del enlace") 👋
+![texto_alternativo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fes%2Fgifs%2Fplatano&psig=AOvVaw1V7rMQayelX5DNNh2heCDy&ust=1678141512364000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMD_tLfqxf0CFQAAAAAdAAAAABAI){width=width height=height}
 
 
    - 🔭 I’m currently working on ...
