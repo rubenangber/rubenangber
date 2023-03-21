@@ -1,7 +1,5 @@
 # Attemp of computer engineer at [USAL](https://usal.es/ "Título opcional del enlace") 👋
 
-![Dance](https://user-images.githubusercontent.com/70805470/222989454-5b78b9d7-6aa9-4222-94f0-43a4c37a319b.gif)
-
 
    - 🔭 I’m currently working on ...
    - 🌱 I’m currently learning ...
