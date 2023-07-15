@@ -7,5 +7,15 @@
 [![](https://img.shields.io/badge/Gmail-rubenangber%40gmail.com-red)](mailto:rubenangber@gmail.com)
 [![](https://img.shields.io/badge/Twitter-rubenangber-blue)](https://twitter.com/RubiGrowl)
 
+### About me
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Study Computer Engineering at USAL
+- 🌱 &nbsp; Learning everything I can.
+
+### Currently learning
+- 🐍 &nbsp; Python
+- ©️ &nbsp; C
+- ☕ &nbsp; Java
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenangber&show_icons=true)
 
 ⭐️ From [@rubenangber](https://github.com/rubenangber)
