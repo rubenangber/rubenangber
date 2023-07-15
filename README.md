@@ -13,11 +13,18 @@
 - ©️ &nbsp; C
 - ☕ &nbsp; Java
 
+<br>
+<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenangber&show_icons=true)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenangber&show_icons=true" alt="Top Langs">
+</div>
 
-[![](https://img.shields.io/badge/Linkedin-rubenangber-darkblue)](https://www.linkedin.com/in/rub%C3%A9n-angoso-berrocal-0ab468278/)
-[![](https://img.shields.io/badge/Gmail-rubenangber%40gmail.com-red)](mailto:rubenangber@gmail.com)
-[![](https://img.shields.io/badge/Twitter-rubenangber-blue)](https://twitter.com/RubiGrowl)
+<br>
+<br>
 
+[![](https://img.shields.io/badge/Linkedin-Rubén-0e76a8)](https://www.linkedin.com/in/rub%C3%A9n-angoso-berrocal-0ab468278/)
+[![](https://img.shields.io/badge/Gmail-rubenangber%40gmail.com-db4a39)](mailto:rubenangber@gmail.com)
+[![](https://img.shields.io/badge/Twitter-rubenangber-00acee)](https://twitter.com/RubiGrowl)
+  
 ⭐️ From [@rubenangber](https://github.com/rubenangber)
