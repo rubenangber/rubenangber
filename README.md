@@ -23,8 +23,12 @@
 <br>
 <br>
 
+<div align="center">
+    
 [![](https://img.shields.io/badge/Linkedin-Rubén-0e76a8)](https://www.linkedin.com/in/rub%C3%A9n-angoso-berrocal-0ab468278/)
 [![](https://img.shields.io/badge/Gmail-rubenangber%40gmail.com-db4a39)](mailto:rubenangber@gmail.com)
-[![](https://img.shields.io/badge/Twitter-rubenangber-00acee)](https://twitter.com/RubiGrowl)
-  
+[![](https://img.shields.io/badge/Twitter-RubiGrowl-00acee)](https://twitter.com/RubiGrowl)
+[![](https://img.shields.io/badge/Instagram-RubiGrowl-C13584)](https://www.instagram.com/rubigrowl/)
+</div>
+
 ⭐️ From [@rubenangber](https://github.com/rubenangber)
