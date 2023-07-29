@@ -1,9 +1,12 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<div style="display: flex; justify-content: space-between;">
+    <div><img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"></div>
+    <div> 
+        <h1>Hi there🧜🏼‍♂️, I'm Rubén</h1>
+        <h2>Attemp of computer engineer</h2>
+    </div>
+</div>
+<h3>About me</h3>
 
-# Hi there🧜🏼‍♂️, I'm Rubén
-## Attemp of computer engineer
-
-### About me
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Study Computer Engineering at [USAL](https://usal.es/ "Título opcional del enlace") 
 - 🌱 &nbsp; Learning everything I can.
