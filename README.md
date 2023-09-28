@@ -20,7 +20,7 @@
 <br>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenangber&show_icons=true" alt="Top Langs">
+    <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenangber&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=dcross23.github.io&hide=Makefile&bg_color=10,904e95,e96443&title_color=fff&text_color=fff"/>
 </div>
 
 <br>
