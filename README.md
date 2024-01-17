@@ -28,8 +28,8 @@
         </td>
         <td valign="middle" width="50%" align="center">
             <div align="center">
-                <a href="https://spotify-github-profile.vercel.app/api/view?uid=rubigrowl&redirect=true" target="_blank">
-                    <img src="https://spotify-github-profile.vercel.app/api/view?uid=rubigrowl&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+            
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rubigrowl&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=rubigrowl&redirect=true)
                 </a>
             </div>
         </td>
