@@ -23,8 +23,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenangber&layout=compact&theme=tokyonight)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rubigrowl&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 </div>
 
 <br>
