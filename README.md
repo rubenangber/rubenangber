@@ -7,13 +7,9 @@
 - 🎓 &nbsp; Study Computer Engineering at [USAL](https://usal.es/ "Título opcional del enlace") 
 - 🌱 &nbsp; Learning everything I can.
 
-<br>
-
 ### Currently learning
 - ☕ &nbsp; Java
 - 🍃 &nbsp; Spring Boot
-
-<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenangber&layout=compact&theme=dark" alt="Top Langs">
@@ -22,7 +18,7 @@
   </a>
 </p>
 
-
+<br>
 
 <div align="center">
 
