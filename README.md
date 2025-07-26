@@ -4,7 +4,7 @@
 <h3>About me</h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Study Computer Engineering at [USAL](https://usal.es/ "Título opcional del enlace") 
+- 🎓 &nbsp; Computer engineer at [USAL](https://usal.es/ "Título opcional del enlace") 
 - 🌱 &nbsp; Learning everything I can.
 
 ### Currently learning
