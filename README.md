@@ -52,16 +52,6 @@
 
 ---
 
-### 🎧 Currently Listening
-
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=rubigrowl&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vxdc2n43yjkpxxb52mb7j7r7b4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Perfil de Spotify">
-    </a>
-</div>
-
----
-
 ### 📫 Contact & Socials
 
 <p align="center">
